@@ -2,8 +2,7 @@
 
 ### Software Developer
 
-I build full-stack applications, backend systems, desktop tools, and data-driven
-workflows. B.S. Computer Science, California State University Monterey Bay.
+B.S. Computer Science, California State University Monterey Bay.
 
 ---
 
